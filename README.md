@@ -1,3 +1,3 @@
-# the_odin_project
+# odin-recipes
 
 Repository created for theodinproject's project
